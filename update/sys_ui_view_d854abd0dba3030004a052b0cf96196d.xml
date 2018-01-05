@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>User_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-05 13:09:37</sys_created_on>
+        <sys_id>d854abd0dba3030004a052b0cf96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User view</sys_name>
+        <sys_package display_value="Needit5jan" source="x_183832_needit5ja">cdca8f90db63030004a052b0cf9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit5jan">cdca8f90db63030004a052b0cf9619d9</sys_scope>
+        <sys_update_name>sys_ui_view_d854abd0dba3030004a052b0cf96196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-05 13:09:37</sys_updated_on>
+        <title>User view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
